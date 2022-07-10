@@ -1,5 +1,5 @@
 ## Omar Abu-Arab
-Software Archtict
+Software Architect
 Java,C#
 
 
